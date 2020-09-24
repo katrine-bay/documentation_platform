@@ -8,7 +8,9 @@ slug: /
 
 
 
-## Welcome
+## Welcome to Jabra Smile - your voiceAnalytics Client 
+
+Jabra Smile will help you 
 
 Here we&apos;ll write a little welcome message for the user of our service. 
 
@@ -18,10 +20,18 @@ Here we&apos;ll write a little welcome message for the user of our service.
 
 Follow these simple steps:
 
-* Download Jabra SMILE
-* something something
+* Register an account
+* Download [Jabra SMILE VoiceAnalytics Client](https://smile-dev.jabra.com/setup/jabra%20smile.msi)
+* 
 
 ---
+
+
+### Requirements 
+
+You need a valid account to be able to use the VoiceAnalytics Client. 
+If you don’t have an existing Smile Account please register using your Email by following this
+[link](https://smile-dev.jabra.com/registration?organization=GN-XX&teamName=temp). 
 
 
 
