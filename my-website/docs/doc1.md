@@ -1,28 +1,29 @@
 ---
 id: doc1
-title: Get started
+title: Introduction
 sidebar_label: Introduction
 slug: /
 ---
 
 
 
+## What is Jabra SMILE?
 
-## Welcome to Jabra Smile - your voiceAnalytics Client 
 
-Jabra Smile will help you 
+Jabra Smile is a .... will help you 
 
-Here we&apos;ll write a little welcome message for the user of our service. 
 
 ---
 
-
-
+## Installation 
 Follow these simple steps:
 
-* Register an account
-* Download [Jabra SMILE VoiceAnalytics Client](https://smile-dev.jabra.com/setup/jabra%20smile.msi)
-* 
+* [Register](https://smile-dev.jabra.com/registration?organization=GN-XX&teamName=temp) an account.
+* Download [Jabra SMILE Voice Analytics Client installation package](https://smile-dev.jabra.com/setup/jabra%20smile.msi), run the installation file and follow the instructions on the screen.
+* When the installation is successfully completed, login by using the username and password you registered with.
+<!--insert image  ![img](../static/img/login-screen.svg) -->
+* Congratulations! You are now ready to use Jabra Voice Analytics! Go to [Tutorial](doc2.md) to learn how to use it. 
+
 
 ---
 
