@@ -6,7 +6,6 @@ slug: /
 ---
 
 ---
-
 ## What is Jabra SMILE?
 
 
@@ -15,7 +14,6 @@ Jabra Smile is a .... will help you
 
 
 ---
-
 ## Installation 
 
 * **Register** your SMILE account by filling out the form found at this 
@@ -42,8 +40,6 @@ Jabra Smile is a .... will help you
 
 
 
-
-<!--
 
 
 
