@@ -1,6 +1,6 @@
 ---
 id: doc1
-title: Download Jabra SMILE
+title: Welcome to Jabra Smile - your voiceAnalytics Client 
 sidebar_label: Introduction
 slug: /
 ---

@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'Documentation platform for Jabra SMILE',
   url: 'https://gndocumentation.netlify.app',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   favicon: 'img/favicon.ico',
   organizationName: 'Jabra SMILE', // Usually your GitHub org/user name.
   projectName: 'Docosaurus_GN_tester', // Usually your repo name.
