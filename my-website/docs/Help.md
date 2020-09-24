@@ -1,13 +1,7 @@
 ---
-id: Help
-title: Questions and answers
-sidebar_label: Help
-slug: /
+id: mdx
+title: Help
 ---
-
-
-
-
 
 
 ## Common questions

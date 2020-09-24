@@ -5,9 +5,10 @@ sidebar_label: Installation
 slug: /
 ---
 
-
+---
 
 ## What is Jabra SMILE?
+
 
 
 Jabra Smile is a .... will help you 
@@ -27,7 +28,7 @@ Jabra Smile is a .... will help you
 * **Login** when the installation is successfully completed with the username and password you registered with.
 <!--insert image  ![img](../static/img/login-screen.svg) -->
 
-* Congratulations! You are now ready to use Jabra Voice Analytics! Go to **[How to use?](doc2.md)** to learn how to use it. 
+* **Congratulations!** You are now ready to use Jabra Voice Analytics! Go to **[How to use?](doc2.md)** to learn how to use it. 
 
 
 ---
