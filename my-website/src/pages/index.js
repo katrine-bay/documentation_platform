@@ -31,13 +31,13 @@ const features = [
     imageUrl: 'img/undraw_work_together_h63l.svg',
       secondparagraph: (
         <>
-          Go ahead and install your digital conversation assistant by clicking "Get Started" and soon we&apos;ll be guiding and supporting you in every conversation.
+          
         </>
       ),
 
     description: (
       <>
-        Get costomer satisfaction reports, historical trends and alerts to critical events and optimise your service. maximise your potential 
+        Get costomer satisfaction reports, historical trends and alerts to critical events and optimise your service. Go ahead - Get Started - and soon we&apos;ll be guiding and supporting you on every call.
       </>
     ),
   },

@@ -1,12 +1,12 @@
 module.exports = {
-  title: 'Jabra SMILE',
-  tagline: 'Documentation platform for Jabra SMILE',
+  title: 'Jabra Voice Analytics',
+  tagline: 'Documentation platform for Jabra Voice Analytics. ',
   url: 'https://gndocumentation.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   favicon: 'img/favicon.ico',
-  organizationName: 'Jabra SMILE', // Usually your GitHub org/user name.
-  projectName: 'Docosaurus_GN_tester', // Usually your repo name.
+  organizationName: 'Jabra VA', // Usually your GitHub org/user name.
+  projectName: 'documentation_platform', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Jabra SMILE',
@@ -21,10 +21,10 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'About', label: 'About', position: 'left'},
-        //{to: 'blog', label: 'Blog', position: 'left'},
-        {to: 'Tutorial', label: 'Tutorial', position: 'left'},
-        {to: 'help/', activeBasePath: 'help',label: 'Help', position: 'left'},
+       
+        {to: 'docs/doc3', label: 'Tutorial', position: 'left'},
+        {to: 'docs/Help', lable: 'Support', position: 'left'}
+    
         //{//skal muligvis slettes herfra
         //  href: 'https://github.com/facebook/docusaurus', 
         //  label: 'GitHub',
