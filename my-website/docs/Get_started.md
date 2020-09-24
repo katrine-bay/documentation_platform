@@ -22,8 +22,3 @@ title: Get started
 * **Congratulations!** You are now ready to use Jabra Voice Analytics! Go to **[How to use?](doc2.md)** to learn how to use it. 
 
 
----
-
-
-
-## Use

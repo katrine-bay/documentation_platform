@@ -1,5 +1,5 @@
 ---
-id: mdx
+id: support
 title: FAQ
 ---
 
