@@ -9,31 +9,29 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Easy to Use',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/undraw_calling_kpbp.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Jabra SMILE was designed to be easily installed and help optimize your conversation right away.
       </>
     ),
   },
   {
     title: 'Focus on What Matters',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/undraw_Questions_re_1fy7.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Jabra SMILE lets you focus on your customer service. Go
+        ahead and install your digital conversation assistant by following the instructions in the <code>docs</code>. Soon we&apos;ll be guiding and supporting you in every conversation. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: 'something about smile',
+    imageUrl: 'img/undraw_work_together_h63l.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Here we&apos;ll add something nice about the service
       </>
     ),
   },

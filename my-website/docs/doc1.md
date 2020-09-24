@@ -1,9 +1,39 @@
 ---
 id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+title: Download Jabra SMILE
+sidebar_label: Introduction
 slug: /
 ---
+
+
+
+
+## Welcome
+
+Here we&apos;ll write a little welcome message for the user of our service. 
+
+---
+
+### Get started 
+
+Follow these simple steps:
+
+* Download Jabra SMILE
+* something something
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 

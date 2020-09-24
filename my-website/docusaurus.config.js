@@ -1,18 +1,18 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Jabra SMILE',
+  tagline: 'Documentation platform for Jabra SMILE',
+  url: 'https://gndocumentation.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Jabra SMILE', // Usually your GitHub org/user name.
+  projectName: 'Docosaurus_GN_tester', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Jabra SMILE',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/audEERING-WavesRed.svg',
       },
       items: [
         {
@@ -21,12 +21,15 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+        {to: 'About', label: 'About', position: 'left'},
+        //{to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'Tutorial', label: 'Tutorial', position: 'left'},
+        {to: 'help/', activeBasePath: 'help',label: 'Help', position: 'left'},
+        //{//skal muligvis slettes herfra
+        //  href: 'https://github.com/facebook/docusaurus', 
+        //  label: 'GitHub',
+        //  position: 'right',
+        //}, //og hertil
       ],
     },
     footer: {
@@ -36,29 +39,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'Introduction',
+              to: 'docs/doc1',
             },
             {
               label: 'Second Doc',
               to: 'docs/doc2/',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
             },
           ],
         },
