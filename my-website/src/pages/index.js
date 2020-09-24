@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/undraw_calling_kpbp.svg',
     description: (
       <>
-        We help your agents take back control of the call. Jabra SMILE provides real time analysis of costomer sentiment and agent tone, count interruptions, measure intonation and much more.
+        We help your <b> agents </b> take back control of the call. We provide real time analysis of costomer sentiment and agent tone, count interruptions, measure intonation and much more.
       </>
     ),
   },
@@ -21,7 +21,7 @@ const features = [
     imageUrl: 'img/undraw_Questions_re_1fy7.svg',
     description: (
       <>
-        We empower supervisors to focus on what really matters - the costomer service of your employees - and provides a real time dash board of agent calls and agent performance indicators and alerts for critical calls. 
+        We empower <b> supervisors </b> to focus on what really matters - <i> the costomer service delivered by your employees </i> - and provides a real time dash board of agent calls and agent performance indicators and alerts for critical calls. 
          
       </>
     ),
@@ -37,7 +37,7 @@ const features = [
 
     description: (
       <>
-        Get costomer satisfaction reports, historical trends and alerts to critical events and optimise your service. Go ahead - Get Started - and soon we&apos;ll be guiding and supporting you on every call.
+        The <b> manager </b>  will have acces to costomer satisfaction reports, historical trends and alerts to critical events. Go ahead - Get Started - and soon we&apos;ll be guiding and supporting you on every call.
       </>
     ),
   },
