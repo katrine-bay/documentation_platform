@@ -1,6 +1,6 @@
 ---
 id: doc3
-title: Tutorial
+title: How to use?
 ---
 ---
 <!--- This is a link to [another document.](doc3.md) This is a link to an [external page.](http://www.example.com/) -->
@@ -8,12 +8,25 @@ title: Tutorial
 
 ## Video tutorial
 
-Here we would like to have a video showcasing a typical conversation assisted by Jabra Smile voiceAnalytics Client.
+Here we would like to have a video showcasing a typical conversation assisted by Jabra SMILE Voice Analytics Client.
 
 <figure class="video-container disassociated-with-next-sibling">
   <iframe src="//www.youtube-link" frameborder="0" allowfullscreen></iframe>
 </figure>
 
+
+## Clients model
+
+
+| Voice metric | Describtion      | Pretty     |
+| -------- | --------- | ---------- |
+| `Neutral client tone` | Neutral means no clear emotion. The speaker is using their “normal” speaking voice and not making any extra effort to convey an emotional state. | **nicely** |
+| `Very negative client tone`        | 2         | 3          |
+| `Very negative client tone`        | 2         | 3          |
+| `Very negative client tone`        | 2         | 3          |
+| `Very negative client tone`        | 2         | 3          |
+| `Very negative client tone`        | 2         | 3          |
+| `Very negative client tone`        | 2         | 3          |
 
 
 

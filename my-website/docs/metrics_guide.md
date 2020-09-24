@@ -1,18 +1,20 @@
 ---
-id: doc2
-title: doc2
+id: metrics_guide
+title: Metrics guide 
 ---
-NOT RIGHT
-<!--- This is a link to [another document.](doc3.md) This is a link to an [external page.](http://www.example.com/) -->
+
+---
 
 
-## Video tutorial
+## Clients model
 
-Here we would like to have a video showcasing a typical conversation assisted by Jabra Smile voiceAnalytics Client.
 
-<figure class="video-container disassociated-with-next-sibling">
-  <iframe src="//www.youtube-link" frameborder="0" allowfullscreen></iframe>
-</figure>
+| Metric | Describtion      |   Layout   |
+| -------- | --------- | ---------- |
+| `Neutral client tone` | Neutral means no clear emotion. The speaker is using their “normal” speaking voice and not making any extra effort to convey an emotional state. | **nicely** |
+| `Very negative client tone`        | Very negative means the speaker sounds angry.        | 3          |
+| `Negative client tone`        | Negative means the speaker sounds dissatisfied or annoyed.         | 3          |
+| `Positive client tone`        | Positive means the speaker sounds either, satisfied, happy, or friendly.        | 3          |
 
 
 

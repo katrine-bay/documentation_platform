@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Jabra Voice Analytics',
-  tagline: 'Documentation platform for Jabra Voice Analytics. ',
+  title: 'Jabra SMILE',
+  tagline: 'Documentation platform for Jabra SMILE Voice Analytics. ',
   url: 'https://gndocumentation.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   favicon: 'img/favicon.ico',
-  organizationName: 'Jabra VA', // Usually your GitHub org/user name.
+  organizationName: 'Jabra SMILE', // Usually your GitHub org/user name.
   projectName: 'documentation_platform', // Usually your repo name.
   themeConfig: {
     navbar: {

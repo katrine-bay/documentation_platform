@@ -3,6 +3,8 @@ id: Get_started
 title: Get started
 ---
 
+
+### Welcome and congratulations on deciding to use **Jabra SMILE**! These next docs will guide you to learn how to use this tool.
 ---
 
 ## Installation 
