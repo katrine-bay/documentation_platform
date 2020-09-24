@@ -1,5 +1,5 @@
 ---
-id: help
+id: Help
 title: Questions and answers
 sidebar_label: Help
 slug: /

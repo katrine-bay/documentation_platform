@@ -8,36 +8,42 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
+    title: 'Easy to use',
     imageUrl: 'img/undraw_calling_kpbp.svg',
     description: (
       <>
-        Jabra SMILE was designed to be easily installed and help optimize your conversation right away.
+        We help your agents take back control of the call. Jabra SMILE provides real time analysis of costomer sentiment and agent tone, count interruptions, measure intonation and much more.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Focus on what matters',
     imageUrl: 'img/undraw_Questions_re_1fy7.svg',
     description: (
       <>
-        Jabra SMILE lets you focus on your customer service. Go
-        ahead and install your digital conversation assistant by following the instructions in the <code>docs</code>. Soon we&apos;ll be guiding and supporting you in every conversation. 
+        We empower supervisors to focus on what really matters - the costomer service of your employees - and provides a real time dash board of agent calls and agent performance indicators and alerts for critical calls. 
+         
       </>
     ),
   },
   {
-    title: 'something about smile',
+    title: 'Knowledge is power',
     imageUrl: 'img/undraw_work_together_h63l.svg',
+      secondparagraph: (
+        <>
+          Go ahead and install your digital conversation assistant by clicking "Get Started" and soon we&apos;ll be guiding and supporting you in every conversation.
+        </>
+      ),
+
     description: (
       <>
-        Here we&apos;ll add something nice about the service
+        Get costomer satisfaction reports, historical trends and alerts to critical events and optimise your service. maximise your potential 
       </>
     ),
   },
 ];
 
-function Feature({imageUrl, title, description}) {
+function Feature({imageUrl, title, description,secondparagraph}) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={clsx('col col--4', styles.feature)}>
@@ -48,6 +54,7 @@ function Feature({imageUrl, title, description}) {
       )}
       <h3>{title}</h3>
       <p>{description}</p>
+      <p>{secondparagraph}</p>
     </div>
   );
 }

@@ -12,7 +12,7 @@ module.exports = {
       title: 'Jabra SMILE',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/audEERING-WavesRed.svg',
+        src: 'img/logo.svg',
       },
       items: [
         {

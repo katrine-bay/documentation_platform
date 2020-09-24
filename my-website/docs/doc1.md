@@ -1,6 +1,6 @@
 ---
 id: doc1
-title: Welcome to Jabra Smile - your voiceAnalytics Client 
+title: Get started
 sidebar_label: Introduction
 slug: /
 ---
@@ -16,7 +16,7 @@ Here we&apos;ll write a little welcome message for the user of our service.
 
 ---
 
-### Get started 
+
 
 Follow these simple steps:
 
@@ -29,8 +29,8 @@ Follow these simple steps:
 
 ### Requirements 
 
-You need a valid account to be able to use the VoiceAnalytics Client. 
-If you don’t have an existing Smile Account please register using your Email by following this
+You need an account to be able to use the Voice Analytics Client. 
+If you don’t have an existing Smile Account please register using your e-mail by following this
 [link](https://smile-dev.jabra.com/registration?organization=GN-XX&teamName=temp). 
 
 
@@ -41,7 +41,7 @@ If you don’t have an existing Smile Account please register using your Email b
 
 
 
-
+<!--
 
 
 
@@ -241,3 +241,5 @@ This is a caution
 This is a warning
 
 :::
+
+-->
