@@ -1,14 +1,55 @@
 ---
 id: doc3
-title: This is Document Number 3
+title: Tutorial
+---
+---
+<!--- This is a link to [another document.](doc3.md) This is a link to an [external page.](http://www.example.com/) -->
+
+
+## Video tutorial
+
+Here we would like to have a video showcasing a typical conversation assisted by Jabra Smile voiceAnalytics Client.
+
+<figure class="video-container disassociated-with-next-sibling">
+  <iframe src="//www.youtube-link" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+
+
+
+## Metrics explained 
+
+### Client model
+The new release of audEERING’s call centre **client model** now detects _very negative_, _negative_,
+_neutral_, and _positive_ tone of voice of the client - but what does these metrics mean? And how does the Jabra Voice Analytics app listen to _how_ something is said and not _what_ is said? 
+
+#### Neutral client tone
+Neutral means no clear emotion. The speaker is using their “normal” speaking voice and not
+making any extra effort to convey an emotional state.
+
+#### Very negative client tone
+Very negative means the speaker sounds angry. 
+
+#### Negative client tone
+Negative means the speaker sounds dissatisfied or annoyed.
+
+#### Positive client tone
+Positive means the speaker sounds either, satisfied, happy, or friendly.
+
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+### Agent model
 
-Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
+#### Neutral agent tone
+Neutral means the agent is not making any extra effort to sound engaged or friendly.
 
-Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
+#### Positive agent tone
+Positive means the agent sounds more engaged, friendly, or happy.
 
-Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
+#### Very positive agent tone
+Very positive means the agent sounds highly engaged and very friendly.
 
-Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
+#### Negative agent tone
+Negative means the agent sounds more disinterested, bored, or annoyed.
+
