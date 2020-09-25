@@ -2,7 +2,7 @@
 id: metrics_guide
 title: Metrics guide 
 ---
-
+Here you find explanations on the metrics used to describe the tone of the client and the agent during a call. 
 ---
 
 
