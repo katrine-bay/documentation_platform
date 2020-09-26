@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Jabra SMILE',
-  tagline: 'Documentation platform for Jabra SMILE Voice Analytics. ',
+  tagline: 'Documentation platform for Jabra SMILE Voice Analytics - the real time coaching and voice analytics that improves your call center performance. ',
   url: 'https://gndocumentation.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
