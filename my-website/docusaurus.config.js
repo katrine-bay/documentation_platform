@@ -42,10 +42,6 @@ module.exports = {
               label: 'Introduction',
               to: 'docs/doc1',
             },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
           ],
         },
         {
