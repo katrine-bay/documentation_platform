@@ -7,7 +7,6 @@ title: How to use?
 
 ## Start an analysis 
 
-After installation, you 
 
 
 * **Run Jabra SMILE** and right click on the <img src="../static/img/green_circle_transparent.png" alt="circle" width="20"/>  in the bottom bar on your device. Then click on “Settings”. 
@@ -17,17 +16,18 @@ After installation, you
 
 * **Microsoft Teams integration** is possible and to do so, download and install _Jabra Direct_[here](https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe).
 
-* **When Jabra Direct is installed** You are now ready to use Jabra Voice Analytics! Go to **[How to use?](doc2.md)** to learn how to use it. 
+--- <!--  mangler mere -->
 
 
 
 
 
-## Video tutorial
+## Product tour
 
-Here we would like to have a video showcasing a typical conversation assisted by Jabra SMILE Voice Analytics Client.
+<!--Here we would like to have a video showcasing a typical conversation assisted by Jabra SMILE Voice Analytics Client.-->
 
-<figure class="video-container disassociated-with-next-sibling">
-  <iframe src="https://smile-dev.jabra.com/onboarding/" frameborder="0" allowfullscreen></iframe>
+<figure class="Product-tour-of-Jabra-engage.ai">
+  <iframe src="https://smile-dev.jabra.com/onboarding/" width="800" height="550" frameborder="0" allowfullscreen=""></iframe>
 </figure>
+
 
