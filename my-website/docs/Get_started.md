@@ -12,7 +12,7 @@ title: Get started
 * **Register** your SMILE account by filling out the form found at this 
 [link](https://smile-dev.jabra.com/registration?organization=GN-XX&teamName=temp). 
 
-<!--insert image ![alt text](../static/img/login-screen.png ) -->
+<!--insert image ![alt text](../static/img/login-screen.png ) ![very good|512x397, 20%](...) -->
 
 * **Download** [Jabra SMILE Voice Analytics Client installation package](https://smile-dev.jabra.com/setup/jabra%20smile.msi), run the installation file and follow the instructions on the screen.
 

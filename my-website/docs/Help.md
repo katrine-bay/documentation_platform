@@ -8,28 +8,9 @@ title: FAQs
 
 <html>
 <body>
-<center><img src="../static/img/undraw_Questions_re_1fy7.svg" alt="circle" width="300"/></center>
+<center><img src="/img/undraw_Questions_re_1fy7.svg" alt="circle" width="300"/></center>
 </body>
 </html>
-
-<!-- ![img|512x397, 20%](../static/img/undraw_Questions_re_1fy7.svg)
-<!doctype html> 
-
-
-<!DOCTYPE html>
-<html>
-   <head>
-      <title>HTML img Tag</title>
-   </head>
-
-   <body>
-      <img src="/html/images/test.png" alt="Simply Easy Learning" width="200"
-         height="80">
-   </body>
-</html>
-
-
--->
 
 
 <br />
@@ -48,7 +29,7 @@ title: FAQs
 <details>
 <summary> <b>Where do I find the app? </b> </summary> 
 
-Simply search for *Smile* in your programs or look for the red ‘three waves’ icon <img src="../static/img/faveicon.ico" alt="" width="20"/> in your system tray.
+Simply search for *Smile* in your programs or look for the red ‘three waves’ icon <img src="/img/faveicon.ico" alt="" width="20"/> in your system tray.
 
 </details>
 
