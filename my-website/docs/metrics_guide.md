@@ -2,28 +2,43 @@
 id: metrics_guide
 title: Metrics guide 
 ---
-Here you find explanations on the metrics used to describe the tone of the client and the agent during a call. 
+---
+<!-- ### Here you find explanations on the metrics used to describe the tone of the client and the agent during a call. -->
+
+
+
+
+## Speech metrics 
+The new release of the Jabra Voice Analytics app now contains the speech metrics, *Intonation* and *Speaking rate*. They are designed to inform the agent when their voice has fallen outside of a normal range for an agent.
+
+| Metric | Describtion      |  
+| -------- | --------- | 
+| **Intonation** | Intonation relates to a speaker’s use of pitch variations as they speak. Low pitch variation in speech is perceived as monotonous or boring and would therefore fall outside the range for good use of intonation.|
+| **Speaking rate**| Speaking too slowing or too fast can also be perceived negatively by the client. |
+
+
 ---
 
+## Color codes
+### Client model
 
-## Client model
 
+| Client model         | Describtion      |   Layout   |
+| -------- | --------- | ---------- |
+| **Neutral client tone** | Neutral means no clear emotion. The speaker is using their “normal” speaking voice and not making any extra effort to convey an emotional state. | <img src="../static/img/green_circle_transparent.png" alt="circle" width="100"/>  |
+| **Very negative client tone**        | Very negative means the speaker sounds angry.        | <img src="../static/img/green_circle_transparent.png" alt="circle" width="50"/>        |
+| **Negative client tone**        | Negative means the speaker sounds dissatisfied or annoyed.         | <img src="../static/img/green_circle_transparent.png" alt="circle" width="50"/>          |
+| **Positive client tone**        | Positive means the speaker sounds either, satisfied, happy, or friendly.        | <img src="../static/img/green_circle_transparent.png" alt="circle" width="50"/>         |
+
+### Agent model
 
 | Metric | Describtion      |   Layout   |
 | -------- | --------- | ---------- |
-| `Neutral client tone` | Neutral means no clear emotion. The speaker is using their “normal” speaking voice and not making any extra effort to convey an emotional state. |  ![img](../static/img/very_positive_agent.png)  |
-| `Very negative client tone`        | Very negative means the speaker sounds angry.        | 3          |
-| `Negative client tone`        | Negative means the speaker sounds dissatisfied or annoyed.         | 3          |
-| `Positive client tone`        | Positive means the speaker sounds either, satisfied, happy, or friendly.        | 3          |
+| **Neutral agent tone** | Neutral means the agent is not making any extra effort to sound engaged or friendly. |  <img src="../static/img/grey_circle.png" alt="circle" width="50"/>   |
+| **Positive agent tone**        | Positive means the agent sounds more engaged, friendly, or happy.        | <img src="../static/img/green_circle.png" alt="circle" width="50"/>      |
+| **Very positive agent tone**        | Very positive means the agent sounds highly engaged and very friendly.        | <img src="../static/img/darker_green_circle.png" alt="circle" width="50"/>         |
+| **Negative agent tone**        | Negative means the agent sounds more disinterested, bored, or annoyed.       | <img src="../static/img/orange_circle.png" alt="circle" width="50"/>      |
 
-## Agent model
-
-| Metric | Describtion      |   Layout   |
-| -------- | --------- | ---------- |
-| `Neutral agent tone` | Neutral means the agent is not making any extra effort to sound engaged or friendly. |  ![img](../static/img/neutral_agent.png)  |
-| `Positive agent tone`        | Positive means the agent sounds more engaged, friendly, or happy.        | ![img](../static/img/positive_agent.png)          |
-| `Very positive agent tone`        | Very positive means the agent sounds highly engaged and very friendly.        | ![img](../static/img/very_positive_agent.png)          |
-| `Negative agent tone`        | Negative means the agent sounds more disinterested, bored, or annoyed.       | ![img](../static/img/negative_agent.png)          |
 
 
 
