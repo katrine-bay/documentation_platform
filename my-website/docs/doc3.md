@@ -9,14 +9,20 @@ title: How to use?
 
 
 
-* **Run Jabra SMILE** and right click on the <img src="../static/img/green_circle_transparent.png" alt="circle" width="20"/>  in the bottom bar on your device. Then click on “Settings”. 
+* **Run Jabra SMILE** and right click on the <img src="../img/logo.svg" alt="circle" width="20"/>  in the bottom bar on your device. Then click on “Settings”. 
 
 
-* **Choose "Audio Device"** to select your prefered option of microphone and speaker.
+* Choose **"Audio Device"** to select your prefered option of microphone and speaker.
+    * **Microsoft Teams integration** is possible and to do so, download and install [_Jabra Direct_](https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe).
 
-* **Microsoft Teams integration** is possible and to do so, download and install _Jabra Direct_[here](https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe).
+* Go to **"Device Settings"** and select your standard communication device(s)
+    * Select device settings and enable call control with softphone
 
---- <!--  mangler mere -->
+* When the call control integration for you device is ready, You will see something similar in Jabra Direct. 
+
+* Now when you take your next call, you should see the application reacting to emotions in the tone both for agent and customer.
+
+
 
 
 

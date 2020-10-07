@@ -91,6 +91,17 @@ Finally, if you need additional help, do not hesitate to address your question d
 
 
 
+<details>
+<summary>  <b>What if the application is running but you can't see the main window?</b> 
+</summary>
+Close your SMILE app and go to the following folder, you can open it in your windows explorer%localappdata%\gn audio\Smile Voice Analytics and please delete a file 'user_settings'. Once it is deleted run the application again and it should work.
+
+</details>
+<br />
+
+
+
+
 <!--
 
 * **How do I reset my password?**
