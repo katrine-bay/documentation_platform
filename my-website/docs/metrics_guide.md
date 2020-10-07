@@ -5,7 +5,7 @@ title: Metrics guide
 ---
 <!-- ### Here you find explanations on the metrics used to describe the tone of the client and the agent during a call. -->
 
-<br />
+
 
 
 ## Speech metrics 
@@ -17,7 +17,7 @@ The new release of the Jabra Voice Analytics app now contains the speech metrics
 | **Speaking rate**| Speaking too slowing or too fast can also be perceived negatively by the client. |
 
 <br />
----
+
 
 ## Color codes
 ### Client model
@@ -29,6 +29,9 @@ The new release of the Jabra Voice Analytics app now contains the speech metrics
 | **Very negative client tone**        | Very negative means the speaker sounds angry.        | <img src="/img/red_circle.png" alt="circle" width="50"/>        |
 | **Negative client tone**        | Negative means the speaker sounds dissatisfied or annoyed.         | <img src="/img/orange_circle.png" alt="circle" width="50"/>         |
 | **Positive client tone**        | Positive means the speaker sounds either, satisfied, happy, or friendly.        | <img src="/img/green_circle_transparent.png" alt="circle" width="50"/>         |
+
+<br />
+
 
 ### Agent model
 

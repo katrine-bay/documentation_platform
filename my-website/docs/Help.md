@@ -84,17 +84,15 @@ If you would like to provide feedback suggestions, comments but you're not sur
 For other issues, comments and feedback ‘Report an issue’ in the right click menu in the system tray will also bring up a built-in feedback form.<br />
 <br />
 Finally, if you need additional help, do not hesitate to address your question directly to <a href = "mailto: skouri@jabra.com">skouri@jabra.com</a> or on Teams. Thanks!
-    
-
 </details>
 
 
-
+<br />
 
 <details>
 <summary>  <b>What if the application is running but you can't see the main window?</b> 
 </summary>
-Close your SMILE app and go to the following folder, you can open it in your windows explorer%localappdata%\gn audio\Smile Voice Analytics and please delete a file 'user_settings'. Once it is deleted run the application again and it should work.
+Close your SMILE app and go to the following folder, you can open it in your windows explorer%localappdata%\gn audio\Smile Voice Analytics and please delete a file 'user_settings'. Once it is deleted run the application again and the problem is solved.
 
 </details>
 <br />

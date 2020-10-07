@@ -1,11 +1,12 @@
 ---
-id: run_analysis
-title: How to use?
+id: doc3
+title: How to analyze?
 ---
 ---
 
+For a quick guide on how to use Jabra SMILE watch this **product tour**.
 
-## Product tour
+
 
 <!--Here we would like to have a video showcasing a typical conversation assisted by Jabra SMILE Voice Analytics Client.-->
 
