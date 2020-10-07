@@ -9,7 +9,10 @@ title: How to use?
 
 
 
-* **Run Jabra SMILE** and right click on the <img src="../img/logo.svg" alt="circle" width="20"/>  in the bottom bar on your device. Then click on “Settings”. 
+* **Run Jabra SMILE** and right click on the <img src="../img/logo.svg" alt="circle" width="20"/>  in the bottom bar on your device. Click on “Settings”.  
+<p align="center">
+  <img src="../img/settings.png" alt="Setting" width="100"/> 
+</p>
 
 
 * Choose **"Audio Device"** to select your prefered option of microphone and speaker.
@@ -37,3 +40,12 @@ title: How to use?
 </figure>
 
 
+<!--
+## Product tour - German 
+
+
+
+<figure class="Product-tour-of-Jabra-engage.ai">
+  <iframe src="https://smile-dev.jabra.com/onboarding/" width="800" height="550" frameborder="0" allowfullscreen=""></iframe>
+</figure>
+-->
