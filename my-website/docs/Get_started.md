@@ -49,7 +49,7 @@ title: Get started
 
 <p align="center">
 <figure class="Product-tour-of-Jabra-engage.ai">
-  <iframe src="../img/setting_video_topkval_trim.mp4" width="480" height="231" frameborder="0" allowfullscreen=""></iframe>
+  <iframe src="../img/setting_video_uden_lyd.mp4" width="360" height="252" frameborder="0" allowfullscreen=""></iframe>
 </figure>
 </p> 
 
