@@ -90,9 +90,9 @@ Finally, if you need additional help, do not hesitate to address your question d
 <br />
 
 <details>
-<summary>  <b>What if the application is running but you can't see the main window?</b> 
+<summary>  <b>The application is running but I can't see the main window...</b> 
 </summary>
-Close your SMILE app and go to the following folder, you can open it in your windows explorer%localappdata%\gn audio\Smile Voice Analytics and please delete a file 'user_settings'. Once it is deleted run the application again and the problem is solved.
+To fix this issue close your SMILE app and go to the folder in which you store <i> local app data </i>. Find the folder <i> gn audio </i>, then <i> Smile Voice Analytics </i> and please delete the file <i>user_settings</i>. Once it is deleted run the application again and the problem is solved.
 
 </details>
 <br />
@@ -100,43 +100,4 @@ Close your SMILE app and go to the following folder, you can open it in your win
 
 
 
-<!--
-
-* **How do I reset my password?**
-    If you forget your password or if the app does not accept your username-password - please write to <skouri@jabra.com> directly (via teams or email) to receive a temporary password.
-
-
-
-* **I can’t find the app?**
-    Simply search for *Smile* in your programs or look for the red ‘three waves’ icon <img src="../static/img/faveicon.ico" alt="" width="20"/> in your system tray.
-
-
-* **How do I update the app?**
-    The fastest way to resolve this is to uninstall *Smile* via Windows settings -> Apps -> Apps & features, and [install](https://smile.jabra.com/setup/Jabra%20Smile.msi) the new version.
-
-
-
-
-
-### How do I change my avatar?
-
-The ‘gear’ icon will take you to ‘settings view’ (it will be disabled during active calls).
-
-Everything with a small gear next to is customizable. Please watch the [prduct tour](https://smile.jabra.com/onboarding/index.html) for detailed information on customization and the metrics. 
-
-
-* **Why does the customer’s avatar don’t look like mine?**
-
-    When the call starts, the app will be able to detect the gender of the customer in the first 15 seconds of the conversation, and it will adjust the avatar accordingly. Until then, you will see the gender-neutral version of the avatar. 
-
-
-* **Where do I give feedback on a call?**
-
-    If you would like to provide feedback suggestions, comments but you're not sure where or how to do it - at the end of each call, you have the chance to ‘flag’ that call and give call-specific feedback using the built in feedback form (using the ‘flag’ button on top right). 
-    
-    For other issues, comments and feedback ‘Report an issue’ in the right click menu in the system tray will also bring up a built-in feedback form. 
-    
-    Finally, if you need additional help, do not hesitate to address your question directly to <skouri@jabra.com> or on Teams. Thanks!
-
-    -->
 

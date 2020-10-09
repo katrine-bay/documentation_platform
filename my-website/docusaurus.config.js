@@ -24,7 +24,9 @@ module.exports = {
        
         {to: 'docs/doc3', label: 'Tutorial', position: 'left'},
         {to: 'docs/Help', lable: 'Support', position: 'left'}
-    
+        
+        
+
         //{//skal muligvis slettes herfra
         //  href: 'https://github.com/facebook/docusaurus', 
         //  label: 'GitHub',
@@ -32,34 +34,21 @@ module.exports = {
         //}, //og hertil
       ],
     },
-    //footer: {
-    //  style: 'dark',
-    //  links: [
-    //    {
-    //      title: 'Docs',
-    //      items: [
-    //        {
-    //         label: 'Introduction',
-    //          to: 'docs/doc1',
-    //        },
-    //      ],
-    //    },
-    //    {
-    //      title: 'More',
-    //      items: [
-    //        {
-    //          label: 'Blog',
-    //          to: 'blog',
-    //        },
-    //        {
-    //          label: 'GitHub',
-    //          href: 'https://github.com/facebook/docusaurus',
-    //        },
-    //      ],
-    //    },
-    //  ],
-    //  copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-    //},
+    footer: {
+      style: 'dark',
+      links: [
+        {
+          title: 'More information',
+          items: [
+            {
+             label: 'Contact',
+              to: 'docs/contact',
+            },
+          ],
+        },
+      ],
+      copyright: `Copyright © ${new Date().getFullYear()} Documentation Platform for GN Jabra Voice Analytics, Inc. Built with Docusaurus.`,
+    },
   },
   presets: [
     [

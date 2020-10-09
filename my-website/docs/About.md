@@ -16,14 +16,17 @@ It sounds complicated, but we’ve made it really simple; easy to read graphs an
 
 -->
 
-
 <br />
 
-## The agents 
+## What can Jabra SMILE do for you?
+
+
+
+### The agents 
 
 <p align="center">
 <figure class="Product-tour-of-Jabra-engage.ai">
-  <img src="/img/undraw_co-working_825n.svg" alt="circle" width="300"/>
+  <img src="/img/undraw_co-working_825n.svg" alt="circle" width="270"/>
 </figure>
 </p> 
 
@@ -33,11 +36,11 @@ It sounds complicated, but we’ve made it really simple; easy to read graphs an
 <br />
 
 
-## The supervisor
+### The supervisor
 
 <p align="center">
 <figure class="Product-tour-of-Jabra-engage.ai">
-  <img src="/img/undraw_team_goals_hrii.svg" alt="circle" width="300"/>
+  <img src="/img/undraw_team_goals_hrii.svg" alt="circle" width="270"/>
 </figure>
 </p> 
 
@@ -46,11 +49,11 @@ It sounds complicated, but we’ve made it really simple; easy to read graphs an
 
 <br />
 
-## The customer 
+### The customer 
 
 <p align="center">
 <figure class="Product-tour-of-Jabra-engage.ai">
-  <img src="/img/undraw_confirmation_2uy0.svg" alt="circle" width="300"/>
+  <img src="/img/undraw_confirmation_2uy0.svg" alt="circle" width="270"/>
 </figure>
 </p> 
 
