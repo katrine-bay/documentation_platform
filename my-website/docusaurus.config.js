@@ -5,8 +5,8 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   favicon: 'img/favicon.ico',
-  organizationName: 'Jabra SMILE', // Usually your GitHub org/user name.
-  projectName: 'documentation_platform', // Usually your repo name.
+  organizationName: 'Jabra SMILE', 
+  projectName: 'documentation_platform', 
   themeConfig: {
     navbar: {
       title: 'Jabra SMILE',
@@ -27,29 +27,24 @@ module.exports = {
         
         
 
-        //{//skal muligvis slettes herfra
-        //  href: 'https://github.com/facebook/docusaurus', 
-        //  label: 'GitHub',
-        //  position: 'right',
-        //}, //og hertil
       ],
-//    },
-//    footer: {
-//      style: 'dark',
-//      links: [
-//        {
-//          title: 'More information',
-//          items: [
-//            {
-//             label: 'Contact',
-//              to: 'docs/contact',
-//            },
-//          ],
-//        },
-//      ],
-//      // copyright: `Copyright © ${new Date().getFullYear()} Documentation Platform for GN Jabra Voice Analytics, Inc. Built with Docusaurus.`,
-//    },
-//  },
+    },
+    footer: {
+      style: 'dark',
+      links: [
+        {
+          title: 'More information',
+          items: [
+            {
+             label: 'Contact',
+              to: 'docs/contact',
+            },
+          ],
+        },
+      ],
+      // copyright: `Copyright © ${new Date().getFullYear()} Documentation Platform for GN Jabra Voice Analytics, Inc. Built with Docusaurus.`,
+    },
+  },
   presets: [
     [
       '@docusaurus/preset-classic',
