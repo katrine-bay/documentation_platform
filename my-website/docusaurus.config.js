@@ -47,7 +47,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Documentation Platform for GN Jabra Voice Analytics, Inc. Built with Docusaurus.`,
+      // copyright: `Copyright © ${new Date().getFullYear()} Documentation Platform for GN Jabra Voice Analytics, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
