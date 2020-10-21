@@ -33,23 +33,23 @@ module.exports = {
         //  position: 'right',
         //}, //og hertil
       ],
-    },
-    footer: {
-      style: 'dark',
-      links: [
-        {
-          title: 'More information',
-          items: [
-            {
-             label: 'Contact',
-              to: 'docs/contact',
-            },
-          ],
-        },
-      ],
-      // copyright: `Copyright © ${new Date().getFullYear()} Documentation Platform for GN Jabra Voice Analytics, Inc. Built with Docusaurus.`,
-    },
-  },
+//    },
+//    footer: {
+//      style: 'dark',
+//      links: [
+//        {
+//          title: 'More information',
+//          items: [
+//            {
+//             label: 'Contact',
+//              to: 'docs/contact',
+//            },
+//          ],
+//        },
+//      ],
+//      // copyright: `Copyright © ${new Date().getFullYear()} Documentation Platform for GN Jabra Voice Analytics, Inc. Built with Docusaurus.`,
+//    },
+//  },
   presets: [
     [
       '@docusaurus/preset-classic',
