@@ -15,7 +15,7 @@ title: FAQs
 
 <br />
 
-<!-- --- -->
+
 
 <details>
 <summary> <b> How do I reset my password? </b></summary> If you forget your password or if the app does not accept your username-password - please write to <a href = "mailto: skouri@jabra.com">skouri@jabra.com</a> directly (via teams or email) to receive a temporary password. 

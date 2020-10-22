@@ -18,7 +18,6 @@ title: Get started
 
 <br />
 
-<!--insert image ![alt text](../static/img/login-screen.png ) ![very good|512x397, 20%](...) -->
 
 * **Download** [Jabra SMILE Voice Analytics Client installation package](https://smile-dev.jabra.com/setup/jabra%20smile.msi), run the installation file and follow the instructions on the screen.
 
@@ -61,12 +60,7 @@ title: Get started
 <br />
 
 * Download and install [**Jabra Direct**](https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe) for control options and to enable e.g. **Microsoft Teams integration** 
-<!--
-<p align="center">
-<figure class="Product-tour-of-Jabra-engage.ai">
-  <iframe src="../img/choose_headphones_trim.mp4" width="480" height="231" frameborder="0" allowfullscreen=""></iframe>
-</figure>
-</p>  -->
+
 
    * In **Jabra Direct** go to **Device** and manage your audio device(s). Integrate prefered softphone in **Settings**.
 
